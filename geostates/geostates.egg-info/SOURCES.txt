@@ -1,0 +1,9 @@
+LICENSE.txt
+README.rst
+pyproject.toml
+setup.cfg
+geostates/geostates.egg-info/PKG-INFO
+geostates/geostates.egg-info/SOURCES.txt
+geostates/geostates.egg-info/dependency_links.txt
+geostates/geostates.egg-info/top_level.txt
+geostates/shapefiles/__init__.py
