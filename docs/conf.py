@@ -27,6 +27,7 @@ language = 'fr'
 html_theme = 'alabaster'
 html_static_path = ['_static']
 
+
 ...
 html_theme = "sphinx_book_theme"
 ...
